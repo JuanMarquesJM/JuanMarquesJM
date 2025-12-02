@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Juan Marques
 
-I'm a Computer Science undergraduate based in Brazil. I'm passionate about backend development, Python, and building solid foundations in computer science.
+I'm a Computer Science undergraduate based in Brazil. I'm passionate about backend development, witch Python and java, and building solid foundations in computer science.
 
 ---
 
 ## 🛠️ Technologies I'm learning
 
 - Python
-- SQLlite, Postgers
-- Django and FastAPI  
-- Git & GitHub
+- Java
+- SQLlite, Postgers 
 
 ---
 
