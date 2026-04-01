@@ -1,24 +1,61 @@
-# 👋 Hi, I'm Juan Marques
+<div align="center">
 
-I'm a Computer Science undergraduate based in Brazil. I'm passionate about backend development, witch Python and java, and building solid foundations in computer science.
+# Juan Carlos Marques Pereira
 
----
+**Backend Developer**
 
-## 🛠️ Technologies I'm learning
+*Seeking first opportunity in software development*
 
-- Python
-- Java
-- SQLlite, Postgers 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmarques--jm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmarques-jm)
+[![Gmail](https://img.shields.io/badge/Email-juan.carlos.marques.pereira@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juan.carlos.marques.pereira@gmail.com)
 
----
-
-## 🎯 Goals
-
-I'm actively seeking my first opportunity in tech as a backend developer.
+</div>
 
 ---
 
-## 📫 Contact
+Backend developer focused on building well-structured, maintainable systems. My work revolves around the Java and Python ecosystems, applying layered architecture principles and REST API design in every project.
 
-- 📧 Email: juan.carlos.marques.pereira@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/juanmarques-jm](https://www.linkedin.com/in/juanmarques-jm)
+---
+
+### Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=juanmarques-jm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmarques-jm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Brazilian · Portuguese (native) · English (intermediate)*
+
+</div>
