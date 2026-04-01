@@ -43,12 +43,6 @@ Backend developer focused on building well-structured, maintainable systems. My 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=juanmarques-jm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmarques-jm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
