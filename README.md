@@ -4,7 +4,6 @@
 
 **Backend Developer**
 
-*Seeking first opportunity in software development*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmarques--jm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmarques-jm)
 [![Gmail](https://img.shields.io/badge/Email-juan.carlos.marques.pereira@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juan.carlos.marques.pereira@gmail.com)
